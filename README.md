@@ -1,6 +1,6 @@
-![scanning-device.png](..%2F..%2FDownloads%2Fport%20scanner%20icon%2Fscanning-device.png)
+![scanning-device](https://github.com/user-attachments/assets/16315c8f-8037-4878-bbcb-145744c212d4)
 
-# port_scanner
+# Port Scanner
 
 Simple port scanner
 
