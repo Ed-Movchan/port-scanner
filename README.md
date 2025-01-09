@@ -1,4 +1,4 @@
-![scanning-device](https://github.com/user-attachments/assets/16315c8f-8037-4878-bbcb-145744c212d4)
+![scanning-device_white-background](https://github.com/user-attachments/assets/e7737bfc-d5ad-45bb-a093-6dab8e395920)
 
 # Port Scanner
 
